@@ -7,7 +7,7 @@ st.set_page_config(page_title="Public Health Campaign", layout='wide')
 # Load data
 @st.cache
 def load_data():
-    url = "https://raw.githubusercontent.com/your-repo/sample_data.csv"  # Replace with your data source
+    url = "https://github.com/subbu6699/Data_Visualization/blob/master/sample_data.csv"  # Replace with your data source
     data = pd.read_csv(url)
     return data
 
