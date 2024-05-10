@@ -1,0 +1,17 @@
+Region,Disease,Year,Cases
+North,Covid-19,2021,1500
+North,Covid-19,2022,1200
+South,Covid-19,2021,1000
+South,Covid-19,2022,800
+East,Covid-19,2021,700
+East,Covid-19,2022,600
+West,Covid-19,2021,900
+West,Covid-19,2022,850
+North,Malaria,2021,400
+North,Malaria,2022,350
+South,Malaria,2021,450
+South,Malaria,2022,400
+East,Malaria,2021,600
+East,Malaria,2022,500
+West,Malaria,2021,500
+West,Malaria,2022,450
